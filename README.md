@@ -1,4 +1,4 @@
-# es-iot-2s4xry
+# es-iot-8xry
 
 Estudio Sustenta IoT 8x relay with ESP8266
 
